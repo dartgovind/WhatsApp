@@ -78,7 +78,6 @@ Part-1
 https://www.linkedin.com/posts/govind-ram-260823372_neatroots-cohort3-jetpackcompose-activity-7354933643871461378-87pr
 
 Part-2
-
 https://www.linkedin.com/posts/govind-ram-260823372_neatroots-cohort3-androiddev-activity-7353627416616923136-5Pfw
 
 
