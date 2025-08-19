@@ -72,6 +72,16 @@ Top App Bar
 
 <img src="https://github.com/user-attachments/assets/c0fcb6ef-9440-4051-9bdf-a882cde2c065" width="300" alt="WhatsApp Clone Reels/Shorts Video Feature Screen"/>
 
+🎥 Video Of App
+
+Part-1
+https://www.linkedin.com/posts/govind-ram-260823372_neatroots-cohort3-jetpackcompose-activity-7354933643871461378-87pr
+
+Part-2
+
+https://www.linkedin.com/posts/govind-ram-260823372_neatroots-cohort3-androiddev-activity-7353627416616923136-5Pfw
+
+
 
 🚀 Future Scope
 
